@@ -1,0 +1,10 @@
+gamer1 - 1497
+gamer2 - 1995
+gamer3 - 1994
+gamer4 - 1496
+gamer5 - 1999
+gamer6 - 2496
+gamer7 - 2493
+ - 1995
+ - 2490
+anahtar - 1993
